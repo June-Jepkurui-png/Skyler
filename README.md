@@ -56,4 +56,69 @@ soilsense/
 │ ├── routes/
 │ └── requirements.txt
 ├── README.md
-└── LICENSE
+└── LISENSE 
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/junejepkurui/soilsense.git
+cd soilsense
+2. Set Up the Backend (Flask)
+cd server
+pip install -r requirements.txt
+flask run
+3.Set Up the Frontend (React)
+cd client
+npm install
+npm start
+Frontend runs on http://localhost:3000
+Backend runs on http://localhost:5000
+
+🌐 Deployment
+
+Frontend: Deployed on Vercel
+
+Backend: Hosted on Render
+
+Live Demo: (coming soon)
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repo
+
+Create a feature branch: git checkout -b feature-name
+
+Commit changes: git commit -m "Add feature name"
+
+Push to branch: git push origin feature-name
+
+Open a Pull Request
+
+📄 License
+
+This project is licensed under the MIT License.
+See the LICENSE
+ file for details.
+
+💬 Connect
+
+👩🏽‍💻 Author: June Jepkurui
+
+📧 Email: junejepkurui@example.com
+
+🌍 Project Link: github.com/junejepkurui/soilsense
+
+🌱 “Healthy soil, healthy harvest — powered by data.”
+
+
+
+
+
+
+
