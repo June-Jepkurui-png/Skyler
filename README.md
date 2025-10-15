@@ -44,7 +44,7 @@ Unpredictable weather, soil degradation, and inefficient resource use challenge 
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure 
 
 soilsense/
 ├── client/ # React frontend
