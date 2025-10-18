@@ -26,7 +26,7 @@ Unpredictable weather, soil degradation, and inefficient resource use challenge 
 - 🌡️ **Real-time soil monitoring** using integrated sensor APIs  
 - 📊 **Dynamic dashboards** displaying soil moisture, pH, and nutrient levels  
 - ☁️ **Weather-based recommendations** for irrigation and planting  
-- 🧠 **AI-driven insights** for crop optimization and soil health trends  
+- 🧠 **AI-driven insights** for crop optimization and soil health trends. 
 - 🔔 **Smart alerts** when conditions deviate from healthy ranges.
 - 🌍 **Responsive interface** accessible from any device
 
