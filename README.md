@@ -11,7 +11,7 @@
 
 ## 🌾 Pitch
 
-**SoilSense** is an innovative agri-tech platform designed to empower farmers, researchers, and agricultural enthusiasts with real-time soil data and insights.  
+**SoilSense** is an innovative agri-tech platform designed to empower farmers,researchers and agricultural enthusiasts with real-time soil data and insights.  
 By integrating **IoT-based soil sensors**, **AI-driven analytics**, and an intuitive web interface, SoilSense helps users monitor soil moisture, pH levels, and temperature — ensuring smarter, data-informed agricultural decisions.
 
 🌍 **Mission:** To revolutionize sustainable agriculture through data and digital precision.
