@@ -112,7 +112,7 @@ See the LICENSE
 
 📧 Email: junejepkurui@example.com
 
-🌍 Project Link: github.com/junejepkurui/soilsense
+🌍 Project Link: github.com/junejepkurui/soilsense.
 
 🌱 “Healthy soil, healthy harvest — powered by data.”
 
