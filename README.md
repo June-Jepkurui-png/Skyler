@@ -28,7 +28,7 @@ Unpredictable weather, soil degradation, and inefficient resource use challenge 
 - ☁️ **Weather-based recommendations** for irrigation and planting  
 - 🧠 **AI-driven insights** for crop optimization and soil health trends. 
 - 🔔 **Smart alerts** when conditions deviate from healthy ranges.
-- 🌍 **Responsive interface** accessible from any device..
+- 🌍 **Responsive interface** accessible from any device.
 
 ---
 
